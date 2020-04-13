@@ -6,3 +6,6 @@ In other words, in terms of the transformation that will be implemented, conside
 The dimensions of the output image must be equal to those of the input image.   
 Use the nearest interference neighbor.   
 
+To test the code, i uploaded brain0030slice150_101x101.png, which is a grayscale image.
+
+The code will terminate after a while (depends on the transformation).
