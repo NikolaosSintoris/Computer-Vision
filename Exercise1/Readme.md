@@ -1,5 +1,5 @@
 Info about exercise1.      
-Compile program: exercise1.py input_filename output_filename  threshold
+Compile program: python3 exercise1.py input_filename output_filename  threshold
 
 I implemented an image editing program, that executes vertical image input.   
 After loading the manuscript, i edited it to create distorted images (This process is called thresholding).    
